@@ -1,0 +1,6 @@
+/booking/.idea/
+/booking/node_modules/
+/booking/vendor/
+/docker/containers/mysql/
+/docker/containers/nginx/log/
+/booking/storage/framework/cache/
